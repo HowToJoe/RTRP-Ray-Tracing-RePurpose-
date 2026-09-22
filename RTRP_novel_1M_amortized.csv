@@ -1,0 +1,2 @@
+﻿nprims,nrays,optix_as_us,optix_h2d_us,optix_launch_us,optix_d2h_us,optix_amort100_us,brute_kernel_us,brute_amort100_us,grid_build_us,grid_h2d_us,grid_kernel_us,grid_d2h_us,grid_amort100_us,correct,notes
+1000,1000000,316.512,4734.98,363.36,3818.43,8919.93512,12240.1,20649.7,75368,5609.6,754.752,2786.3,9904.332,True,novel_1M_amortized100_sampled10k

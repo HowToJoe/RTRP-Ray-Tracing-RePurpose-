@@ -1,0 +1,4 @@
+﻿nprims,nrays,optix_as_us,optix_h2d_us,optix_launch_us,optix_d2h_us,optix_e2e_us,brute_kernel_us,brute_e2e_us,grid_build_us,grid_kernel_us,grid_e2e_us,optix_ok,brute_ok,grid_ok,notes
+1000,10000,330.752,180.224,23.552,102.4,640.512,347.776,,68991.9,9814.02,9947.51,True,True,True,real3d_scattered_1000_10k_LiDARlike_CSV
+1000,10000,355.328,155.648,21.984,91.136,630.458,346.048,,60665,9638.88,,9779.19,True,True,True,real3d_scattered_incoherent_seed42_flags
+1000,10000,334.848,192.512,23.552,107.52,666.112,345.824,,66026.2,84.384,,281.1,True,True,True,real3d_3Dgrid_fair_CSV
